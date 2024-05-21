@@ -1,4 +1,4 @@
-# Projeto Pedra Papel Tesoura
+# Projeto Pedra Papel Tesoura - Versão estendida
 
 ### O Jokempô Pedra, Papel, Tesoura, Lagarto, Spock é uma versão estendida do clássico jogo de Jokempô, adicionando duas novas opções: Lagarto e Spock. Esta versão do jogo foi popularizada pela série de TV "The Big Bang Theory" e oferece ainda mais possibilidades estratégicas e diversão para os jogadores. O jogo é disputado por dois participantes, que simultaneamente escolhem entre cinco opções: pedra, papel, tesoura, lagarto ou Spock. As regras para determinar o vencedor são as seguintes:
 
